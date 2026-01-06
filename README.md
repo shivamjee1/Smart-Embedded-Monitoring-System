@@ -12,8 +12,8 @@ The project is simulated using Tinkercad and is designed to be deployed on real 
 ## Project Phases
 - Phase 1: LED and Push Button (GPIO validation) ✔
 - Phase 2: Sensor Interfacing (ADC) ✔
-- Phase 3: Display Integration ⏳
-- Phase 4: Threshold and Alert System
+- Phase 3: Display Integration ✔
+- Phase 4: Threshold and Alert System⏳
 - Phase 5: Optional IoT Extension
 
 ## Tools and Technologies
@@ -25,3 +25,4 @@ The project is simulated using Tinkercad and is designed to be deployed on real 
 ## Status
 Phase 1 completed and verified using Tinkercad simulation.
 Phase 2 completed and verified using Tinkercad simulation.
+phase 3 completed and verified using Tinkercad simulation.(toggle push button debounce)
